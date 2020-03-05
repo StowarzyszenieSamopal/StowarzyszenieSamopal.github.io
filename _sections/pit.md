@@ -12,8 +12,13 @@ Zgoda na przekazanie danych oraz dodatkowe informacje: Wypełnij jeśli chcesz.
 ![1%PIT na Rozkręcenie Olkusza](/assets/images/1proc.jpg)
 PIT-37 i PIT-36 wyglądają prawie identycznie. Jeśli wypełniasz inne pity to pewnie masz księgową, która to za Ciebie ogranie.
 
-TODO:
-- procedura / towar / 0,9%, itp / czerwiec+wrzesien
-- pit36 / 37 - identyczny
-- mozliwosc korekty do konca kwietnia
-- na co przeznaczymy / jaki towar bedziemy requestować
+##Pamiętaj! Jeśli się pomyliłeś wypełniając swój PIT (np. podałeś kompletnie inny KRS :) to możesz złożyć korekte do konca kwietnia.
+
+PSAT dostanie te pieniądze w czerwcu. We wrześniu dostanie informacje o celach szczegółowych. Dopiero wtedy będą w sanie stwierdzić ile złota zebraliśmy. Od zebranej kwoty odliczą sobie ~10% dla księgowej (OPP musi prowadzić pełną księgowość jak jakaś spółka), a za reszte wyśle nam jakiś towar lub wykona usługe.
+
+Jako, że nie dostaniemy pieniędzy będe wnioskował o rzeczy najbardziej przydatne strzelcom:
+- amunicja
+- tarcze
+- takery+zszywki
+- magazynki
+- Jeśli masz inne pomysły to dawaj. (uzyj maila z menu bocznego bo formularz kontaktowy to atrapa)
