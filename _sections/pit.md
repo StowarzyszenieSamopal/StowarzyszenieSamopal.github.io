@@ -3,7 +3,7 @@ title: Podaruj nam 1% podatku
 icon: fa-comment
 order: 2
 ---
-Nie mamy jeszcze statusu OPP, ale dzięki współpracy z PSAT (<link) już __TERAZ__ możemy zbierać środki z 1% PIT.
+Nie mamy jeszcze statusu OPP, ale dzięki współpracy z PSAT (link) już __TERAZ__ możemy zbierać środki z 1% PIT.
 Jeśli jesteś fanem strzelectwa i chcesz nam pomagać już na samym starcie - wypelnij odpowiednio swój PIT.
 
 TODO:
