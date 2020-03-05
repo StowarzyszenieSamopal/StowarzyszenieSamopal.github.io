@@ -12,7 +12,7 @@ order: 1
 </header>
 
 <footer>
-  <a href="#pit" class="button scrolly">Dej mnie! Mam horom curke.</a>
-  <a href="#kontakt" class="button scrolly">Kontakt</a>
+  <a href="#pit" class="button scrolly">Dej mnie! Mam horom curke.</a> &nbsp; 
+  <a href="#kontakt" class="button scrolly">Kontakt</a> &nbsp; 
   <a href="#blog" class="button scrolly">Aktualności / Blog</a>
 </footer>
