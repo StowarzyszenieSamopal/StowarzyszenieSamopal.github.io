@@ -1,5 +1,7 @@
 ## Startujemy
 
+TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
+
 Wszystko jest w budowie lub w fazie planów. Czasem jest tylko pomysł i nie ma nawet planów. 
 
 Mamy zakładke [KONTAKT]({$ link kontakt.md $}) gdyby ktos chciał bardzo coś wysłać.
