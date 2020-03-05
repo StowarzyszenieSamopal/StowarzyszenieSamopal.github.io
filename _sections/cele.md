@@ -4,10 +4,10 @@ icon: fa-comment
 order: 3
 ---
 
-Co robi Samopał?
+Co robi Samopał? Co ma w planach?
 
 ### Dopłaty do zawodów
-Główną ideą jest to, zeby nasze strzeleckie hobby było tańsze. Zwłaszcza obowiązkowe udziały w zawodach PZSSu.
+Kluby strzeleckie i komercyjne strzelnice targają z ludzi kupe kasy. Strzelactwo jest głównie dla bogatych, których stać na zabawki. __Główną ideą__ jest to, zeby nasze strzeleckie hobby było tańsze. Zwłaszcza obowiązkowe udziały w zawodach PZSSu.
 Na pierwszy ogień idzą zawody PZSS. W miare finansowych (oraz księgowo-podatkowo-urzędo-skarbowych) możliwości będziemy dopłacać lub finansować zawody strzeleckie.
 
 ### Treningi i szkolenia
