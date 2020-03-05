@@ -19,7 +19,7 @@ PIT-37 i PIT-36 wyglądają prawie identycznie. Jeśli wypełniasz inne pity to 
 PSAT dostanie te pieniądze w czerwcu. We wrześniu dostanie informacje o celach szczegółowych. Dopiero wtedy będą w sanie stwierdzić ile złota zebraliśmy. Od zebranej kwoty odliczą sobie ~10% dla księgowej (OPP musi prowadzić pełną księgowość jak jakaś spółka), a za reszte wyśle nam jakiś towar lub wykona usługe.
 
 Jako, że nie dostaniemy pieniędzy będe wnioskował o rzeczy najbardziej przydatne strzelcom:
-- amunicja
+- amunicja (jeśli tylko znajdziemy sposój jej transportu przez całą polske)
 - tarcze
 - takery+zszywki
 - magazynki
