@@ -1,17 +1,18 @@
-## Startujemy
+---
+title: Intro
+cover-photo: assets/images/banner.jpg
+cover-photo-alt: example cover photo
+auto-header: none
+icon: fa-comment
+order: 1
+---
+<header>
+  <h2 class="alt">Witajcie! Stowarzyszenie <strong>Samopał</strong> - Pierwsze takie, które pozwoli Ci strzelać taniej</h2>
+  <p>Zapoczątkowane przez Prezesa, wspierane przez dobrych ludzi. Koniecznie czytaj dalej</p>
+</header>
 
-Wszystko jest w budowie lub w fazie planów. Czasem jest tylko pomysł i nie ma nawet planów. 
-
-Mamy zakładke [KONTAKT]({$ link kontakt.md $}) gdyby ktos chciał bardzo coś wysłać.
-
-*Koniecznie zaglądnij [TUTAJ]({$ link procent.md $}) - jest nam to bardzo potrzebne!*
-
-Strona na razie w postaci prostego bloga. Tu są posty/aktualności:
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<footer>
+  <a href="#pit" class="button scrolly">Dej mnie! Mam horom curke.</a>
+  <a href="#kontakt" class="button scrolly">Kontakt</a>
+  <a href="#blog" class="button scrolly">Aktualności / Blog</a>
+</footer>
