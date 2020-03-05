@@ -23,7 +23,7 @@ Mamy 2020 rok. Każdy ma w kieszeni mały komputerek i połączenie ze światem.
 Jako programista będe chciał stworzyć systemy IT pomagające w prowadzeniu stowarzyszeń jak nasze, klubów sportowych, zawodników, strzelców, ...
 
 ### Furtka bezpieczeństwa / Zawór upustowy
-Na wypadek gdyby w jakiś magiczny sposób zadziałała np. magia Internetów i Samopał miałby za dużo pieniędzy na swoim koncie do [Statutu](assets/images/STATUT.pdf) wpisałem działalność harytatywną.
+Na wypadek gdyby w jakiś magiczny sposób zadziałała np. magia Internetów i Samopał miałby za dużo pieniędzy na swoim koncie do [Statutu](assets/images/STATUT.pdf) wpisałem działalność charytatywną.
 Wyprawki szkolne, szlachetne paczki, itp. 
 Na pewno nie stanie się to szybko...
 
