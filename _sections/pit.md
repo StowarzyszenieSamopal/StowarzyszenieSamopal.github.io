@@ -23,4 +23,4 @@ Jako, że nie dostaniemy pieniędzy będę wnioskował o rzeczy najbardziej przy
 - tarcze, poppery
 - takery, zszywki
 - magazynki
-- Jeśli masz inne pomysły to dawaj. (użyj maila z menu bocznego bo formularz kontaktowy to atrapa)
+- Jeśli masz inne pomysły to ślij maila.
