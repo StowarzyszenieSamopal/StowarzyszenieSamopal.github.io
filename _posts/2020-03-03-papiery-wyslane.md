@@ -7,9 +7,9 @@ Wniosek rejestracyjny został wysłany do KRS. Jeśli nic nie spierdoliłem to z
 
 Po otrzymaniu NIPu trzeba zrobić:
 - konto w banku
-- __US (zgłoszenie uproszczonej ksiegowości)__
+- __US (zgłoszenie uproszczonej księgowości)__
 - info do PSAT'u
-- ustalanie wewnętrznuch regulaminów, składek
+- ustalanie wewnętrznych regulaminów, składek
 - zbieranie pomysłów na działania
 - ...
 
