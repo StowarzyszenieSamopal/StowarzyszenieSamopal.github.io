@@ -1,6 +1,6 @@
 ---
 title: Cele stowarzyszenia
-icon: fa-comment
+icon: fa-fist-raised
 order: 3
 ---
 
