@@ -12,7 +12,7 @@ Na pierwszy ogień idzą zawody PZSS. W miare finansowych (oraz księgowo-podatk
 
 ### Treningi i szkolenia
 Będziemy szkolić chętnych do uzyskania pozwolenia. Oczywiście nie każdego z ulicy - trzeba np. umieć się zachować.
-W dodatku zrobimy to po taniości
+W dodatku zrobimy to po taniości! Będziemy chcieli poprowadzic kandydata za ręke oraz dać ammo, zapłacic za badania i egzaminy, ...
 
 ### Strzelnica
 Mam nadzieje, ze wystepując jako stowarzyszenie mamy większe szanse na "poważne" traktowanie. Jako zwykły człowiek nie miałem wystarczającej siły przebicia, a w okolicy mam na celowniku kilka potencjalnych lokalizacji.
