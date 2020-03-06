@@ -10,7 +10,7 @@ Jeśli jesteś fanem strzelectwa i chcesz nam pomagać już na samym starcie - w
 ## Cel szczegółowy: Rozkręcenie Olkusza
 Zgoda na przekazanie danych oraz dodatkowe informacje: Wypełnij jeśli chcesz.
 
-[![1%PIT na Rozkręcenie Olkusza](/assets/images/1proc.jpg)](/assets/images/1proc.jpg)
+[<img src="/assets/images/1proc.jpg" alt="1% PIT na Rozkręcenie Olkusza">](/assets/images/1proc.jpg)
 
 PIT-37 i PIT-36 wyglądają prawie identycznie. Jeśli wypełniasz inne pity to pewnie masz księgową, która to za Ciebie ogranie.
 
