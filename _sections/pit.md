@@ -1,6 +1,6 @@
 ---
 title: Podaruj nam 1% podatku
-icon: fa-comment
+icon: fa-donate
 order: 2
 ---
 Nie mamy jeszcze statusu OPP, ale dzięki współpracy z PSAT (link) już __TERAZ__ możemy zbierać środki z 1% PIT.
