@@ -4,7 +4,7 @@ icon: fa-fist-raised
 order: 3
 ---
 
-# Co robi Samopał? Co ma w planach?
+### Co robi Samopał? Co ma w planach?
 Samopał nie ma na razie żadnych pieniędzy bo dopiero powstał. Wszystkie poniższe cele będziemy realizować __jeśli tylko będzie nas na to stać: Finansowo, organizacyjnie i czasowo.__ Dla świeżynki jak Samopał barierą są też przepisy i obostrzenia skarbowo-księgowe. Jeśli już będziemy mieli pieniądze to plany są następujące:
 
 ### Dopłaty do zawodów
