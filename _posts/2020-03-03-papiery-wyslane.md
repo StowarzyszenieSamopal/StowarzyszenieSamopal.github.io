@@ -3,7 +3,7 @@ layout: post
 title:  "Rejestracja Samopała"
 ---
 
-Wniosek rejestracyjny został wysłany do KRS. Jeśli nic nie spierdoliłem to za miesiąc dostajemy NIP, REGON i ruszamy w świat na pełnym kutafixie!
+Wniosek rejestracyjny został wysłany do KRS. Jeśli nic nie pomieszałem to za miesiąc dostajemy NIP, REGON i ruszamy w świat na pełnym kutafixie!
 
 Po otrzymaniu NIPu trzeba zrobić:
 - konto w banku
