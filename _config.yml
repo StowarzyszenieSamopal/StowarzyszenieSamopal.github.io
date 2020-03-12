@@ -16,9 +16,10 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
+youtube_url: https://www.youtube.com/channel/UCsv7C8jWdDmfJfafaTEkuDg
 twitter_url:
 facebook_url: https://fb.me/StowarzyszenieSamopal
-googleplus_url: https://www.youtube.com/channel/UCsv7C8jWdDmfJfafaTEkuDg
+googleplus_url:
 instagram_url: https://www.instagram.com/stowarzyszeniesamopal
 linkedin_url:
 github_url:
