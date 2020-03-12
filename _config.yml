@@ -15,6 +15,7 @@ avatar: assets/images/avatar.jpg
 url: "" # the base hostname & protocol for your site
 
 # Social icons settings:
+telegram_url: https://t.me/StowarzyszenieSamopal
 youtube_url: https://www.youtube.com/channel/UCsv7C8jWdDmfJfafaTEkuDg
 twitter_url:
 facebook_url: https://fb.me/StowarzyszenieSamopal
