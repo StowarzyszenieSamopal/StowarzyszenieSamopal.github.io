@@ -1,12 +1,12 @@
 #theme: jekyll-theme-prologue
 remote_theme: StowarzyszenieSamopal/jekyll-theme-prologue
-title: Stowarzyszenie Samopał
-description: Tanie sianie na śniadanie!
+title: Samopał
+description:
 subtitle: Tanie sianie na śniadanie !
 ###description: >- # this means to ignore newlines until "baseurl:"
 ###  This is the demo site for a Jekyll theme version of
 ###  HTML5 UP's sleek, responsive site template Prologue.
-author: Stowarzyszenie Samopał
+author: Samopał
 email: kontakt@samopal.pl
 avatar: assets/images/avatar.jpg
 
