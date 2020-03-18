@@ -9,10 +9,11 @@ Po krótkiej wymianie maili dowiedziałem się, że Samopał został zarejestrow
 
 Brawa dla __XII Wydział KRS w Krakowie__! Zaskoczyli mnie szybkością procesowania wniosku i odpisywnaia na maile. Mamy takie dane (dociekliwi mogą sprawdzić je w on-line):
 
-### Nazwa: Samopał
+# Nazwa: Samopał
 ## KRS: 0000833795
 ## NIP: 6372209768
 ## Regon: 385815123
-# nr konta "firmowego": **dziś ide do banku zakładać**
+#### nr konta "firmowego": dziś ide do banku zakładać
 
+ 
 Później tylko info do skarbówki i można działać.
