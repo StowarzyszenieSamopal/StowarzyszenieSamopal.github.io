@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wpisani do Krajowego Rejestru"
+title:  "Jak działa nasz KRS?"
 ---
 
 W związku z epidemią postanowiłem napisać maila do KRSu z pytaniem czy pracują, czy mam się spodziewać opóźnień...
