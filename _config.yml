@@ -31,6 +31,6 @@ dribbble_url:
 zrzutka_url: https://zrzutka.pl/profil/samopal-939204
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-161527395-1
 encoding: UTF-8
 collections: [sections]
