@@ -16,7 +16,7 @@ order: 1
   <a href="#kontakt" class="button scrolly">Kontakt</a> &nbsp; 
   <a href="/blog.html" class="button scrolly">Aktualności / Blog</a>
 </footer>
-<br /><br />
+<br />
 <p>Oficjalne dane naszego stowarzyszenia:<br />
 KRS: 0000833795<br />
 NIP: 6372209768<br />
