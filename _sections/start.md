@@ -16,3 +16,10 @@ order: 1
   <a href="#kontakt" class="button scrolly">Kontakt</a> &nbsp; 
   <a href="/blog.html" class="button scrolly">Aktualności / Blog</a>
 </footer>
+
+<p>Oficjalne dane naszego stowarzyszenia:
+KRS: 0000833795
+NIP: 6372209768
+Regon: 385815123
+nr konta: 03 1600 1462 1896 1120 0000 0001
+Siedziba: Olkusz</p>
