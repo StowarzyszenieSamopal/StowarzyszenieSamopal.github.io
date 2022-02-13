@@ -20,10 +20,14 @@ Gdyby udało się uruchomić własną strzelnice to byłaby bajka! Byłoby jeszc
 Mamy 2020 rok. Każdy ma w kieszeni mały komputerek i połączenie ze światem. Trzeba to wykorzystać!
 Będziemy chcieli stworzyć systemy IT pomagające w prowadzeniu stowarzyszeń jak nasze, klubów sportowych, zawodników, strzelców, ...
 
+### Imprezy dla pracowników
+Mamy za sobą jeden (słownie: 1) taki event dla pracowników jednej z Krakowskich firm. Każdy wyszedł zadowolony, a prezes gdy zobaczył rachunek to aż sie rozglądał czy nie ma ukrytej kamery - tak tanio było - magia non-profitu. Takie działania prowadzimy w ramach ustawowej odpłatnej działalności pożytku publicznego. 
+
+
 ### Furtka bezpieczeństwa / Zawór upustowy
 Na wypadek gdyby w jakiś sposób zadziałała magia Internetów i Samopał miałby za dużo pieniędzy na swoim koncie, do [Statutu](assets/images/STATUT.pdf) wpisaliśmy działalność charytatywną.
 Wyprawki szkolne, szlachetne paczki, meble, itp. dla ludzi w trudnej sytuacji życiowej. 
-Na pewno nie stanie się to szybko, ale kto wie...? 
+Raczej mało prawdopodobne, ale kto wie...? 
 
 ### Inne?
 Jesteśmy otwarci na pomysły i propozycje. Piszcie!
