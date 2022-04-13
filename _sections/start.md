@@ -21,5 +21,5 @@ order: 1
 KRS: 0000833795<br />
 NIP: 6372209768<br />
 Regon: 385815123<br />
-nr konta: 03 1600 1462 1896 1120 0000 0001<br />
+nr konta: 56 1870 1045 2078 1072 5408 0001<br />
 Siedziba: Olkusz</p>

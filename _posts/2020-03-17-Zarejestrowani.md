@@ -13,7 +13,7 @@ Brawa dla __XII Wydział KRS w Krakowie__! Zaskoczyli mnie szybkością procesow
 ## KRS: 0000833795
 ## NIP: 6372209768
 ## Regon: 385815123
-### nr konta: 03 1600 1462 1896 1120 0000 0001
+### nr konta: 56 1870 1045 2078 1072 5408 0001
 
  
 Później tylko info do skarbówki i można działać.
